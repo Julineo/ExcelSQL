@@ -1,6 +1,3 @@
-USE [eIS]
-GO
-
 DECLARE @ConstitInd TABLE (
 	[ConstitID] [int] NOT NULL,
 	[FirstName] [nvarchar](25) NULL,
