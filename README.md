@@ -1,6 +1,6 @@
-The file shows technique that allows you to do fast batch updates/inserts/selects using Excel and SQL.
+This repository shows a technique that allows you to do fast batch updates/inserts/selects using Excel and SQL.
 
-How can you process hundreeds of records in a butch?
+Suppose you had been asked to update some records in database. How can you process hundreeds of records in a butch?
 
 Import excel spreadshit to database and writ some update with subquery. Or write a query direcly and brake a keyboard by typing commas after ID's.
 
